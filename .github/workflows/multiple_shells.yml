@@ -1,8 +1,5 @@
 name: Multiple shells commands
 on:
-
-  workflow_dispatch
-
   push:
     branches:
       - "main"
